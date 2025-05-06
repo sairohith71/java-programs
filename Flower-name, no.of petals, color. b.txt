@@ -1,0 +1,1 @@
+Flower-name, no.of petals, color. behavior - display using diff class for flower n main
